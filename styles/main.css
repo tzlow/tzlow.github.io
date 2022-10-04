@@ -95,7 +95,14 @@ button {
 }
 
 #section-skills > div:first-of-type {
-    margin: 10px 30px 0 30px;
+    margin: 10px 25px 0 25px;
+}
+
+#section-social {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+
 }
 
 #section-social img {
